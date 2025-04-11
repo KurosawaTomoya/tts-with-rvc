@@ -6,7 +6,7 @@ install_requires = [
     "nest_asyncio",
     "torch",
     "edge-tts",
-    "numpy==1.26.0",
+    "numpy==1.26.2",
     "librosa==0.9.1",
     "faiss-cpu==1.10.0",
     "soundfile>=0.12.1",
